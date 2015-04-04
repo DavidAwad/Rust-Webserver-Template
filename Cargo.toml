@@ -2,3 +2,6 @@
 name = "Rust-Webserver-Template"
 version = "0.0.1"
 authors = ["David Awad <davidawad64@gmail.com>"]
+
+[dependencies]
+iron = "*"
